@@ -1,4 +1,4 @@
-# Instruction for run into your machine
+# Instruction for run code into your machine
 ## step-1
 git clone https://github.com/altamashnaseeem/NexusBlog.git
 
